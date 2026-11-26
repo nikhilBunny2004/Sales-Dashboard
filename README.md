@@ -1,2 +1,3 @@
-# Sales-Dashboard
-An interactive Sales Dashboard built using Power BI and SQL to analyze 25,000+ sales records across 12 months, 5 regions, and key business KPIs. Provides insights into sales performance, regional trends, product performance, and post-festival sales fluctuations through dynamic visualizations and data-driven reporting.
+An interactive **Sales Data Analysis Dashboard** built using Microsoft Power BI to analyse sales performance, customer transactions, product trends, and payment preferences. The dashboard provides insights through KPI cards, interactive visualisations, brand-wise sales comparisons, city-level analysis, and time-based filtering to support data-driven business decisions.
+
+**Tech Stack:** Microsoft Power BI, DAX, Data Cleaning, Data Visualisation, Business Intelligence, Data Analysis.
